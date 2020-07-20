@@ -14,10 +14,6 @@
 <img align="left" alt="Urvesh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<a href="https://www.anticybercrime.org">
-<img align="left" alt="Anti Cyber Crime Society" width="22px" src="https://static.wixstatic.com/media/5c92c5_7e9971ffec1244159f137087003f39f3~mv2.png/v1/fill/w_132,h_92,al_c,q_85,usm_0.66_1.00_0.01/ACCS.webp" />
-</a>
-
 <br />
 
 
