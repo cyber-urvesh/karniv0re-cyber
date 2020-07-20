@@ -14,6 +14,9 @@
 <img align="left" alt="Urvesh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+<a href="https://www.facebook.com/profile.php?id=100024803556371">
+<img align="left" alt="Urvesh's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/facebook.svg" />
+</a>
 
 <br />
 
