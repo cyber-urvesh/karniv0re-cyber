@@ -20,7 +20,7 @@
 
 <br/>
 <br/>
-Hi, I'm Urvesh Thakkar, Cyber Crime Investigator and Security Researcher 🚀 from Pune, India, currently, I am Cyber Crime Investigator 👨‍💻 at The Cyber Agents. Executive Security Researcher at Cyber Crime Helpline LLP 🕵️‍♂️ President & Founder at Anti Cyber Crime Society NGO 🕵️‍♂️  Chief Information Security Officer - CISO - at Infocious Infotech Pvt Ltd. 
+Hi, I'm Urvesh Thakkar, Cyber Crime Investigator and Security Researcher 🚀 from India. Board Member @ Virtual Cyber Labs, Executive Researcher @ Cyber Crime Helpline LLP, Lead Security Instructor @ SIEM Intelligence. An active Blue Teamer playing with Logs, SIEM & MITRE ATT&CK ! 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/HoffxyN8ghVuw/source.gif" />
 
@@ -28,15 +28,13 @@ Hi, I'm Urvesh Thakkar, Cyber Crime Investigator and Security Researcher 🚀 fr
 
 - 👨🏽‍💻 Diploma In Cyber Crime Investigation - CCIC 
 - 👨🏽‍💻 Cyber Crime Intervention Officer - CCIO
-- 👨🏽‍💻 Certified Ethical Hacker - CEH 
-- 👨🏽‍💻 Fraud Accounting and Fraud Detection 
-- 👨🏽‍💻 Forensic Psychology By IOATH 
+- 👨🏽‍💻 OSFTC - OSForensics Triage Certification
+- 👨🏽‍💻 DCPLA - DSCI Certified Privacy Lead Assessor 
 - 👨🏽‍💻 Bug Bounty Hunter v1 and v2 - BBH
 
 
 
-- 📫 How to reach me: urveshthakkar2001@gmail.com
-
+- 📫 How to reach me: urvesh@cybersapien.online
 
 **Languages:**
 
